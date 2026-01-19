@@ -1,0 +1,28 @@
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /src
+
+# 1. Copiar los archivos .csproj respetando tus rutas actuales
+# La API es carpeta sencilla:
+COPY ["Redarbor.Inventory.Api/Redarbor.Inventory.Api.csproj", "Redarbor.Inventory.Api/"]
+# Los otros 3 son carpeta doble:
+COPY ["Redarbor.Inventory.Application/Redarbor.Inventory.Application/Redarbor.Inventory.Application.csproj", "Redarbor.Inventory.Application/Redarbor.Inventory.Application/"]
+COPY ["Redarbor.Inventory.Domain/Redarbor.Inventory.Domain/Redarbor.Inventory.Domain.csproj", "Redarbor.Inventory.Domain/Redarbor.Inventory.Domain/"]
+COPY ["Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure.csproj", "Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure/"]
+
+# 2. Restaurar dependencias usando la ruta de la API (carpeta sencilla)
+RUN dotnet restore "Redarbor.Inventory.Api/Redarbor.Inventory.Api.csproj"
+
+# 3. Copiar todo el código fuente
+COPY . .
+
+# 4. Compilar la API
+WORKDIR "/src/Redarbor.Inventory.Api"
+RUN dotnet build "Redarbor.Inventory.Api.csproj" -c Release -o /app/build
+
+FROM build AS publish
+RUN dotnet publish "Redarbor.Inventory.Api.csproj" -c Release -o /app/publish
+
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "Redarbor.Inventory.Api.dll"]

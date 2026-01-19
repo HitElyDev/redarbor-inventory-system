@@ -1,0 +1,16 @@
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\bin\Debug\net6.0\Redarbor.Inventory.Application.deps.json
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\bin\Debug\net6.0\Redarbor.Inventory.Application.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\bin\Debug\net6.0\Redarbor.Inventory.Application.pdb
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\bin\Debug\net6.0\Redarbor.Inventory.Domain.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\bin\Debug\net6.0\Redarbor.Inventory.Domain.pdb
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.csproj.AssemblyReference.cache
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.AssemblyInfoInputs.cache
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.AssemblyInfo.cs
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.sourcelink.json
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.CA6F7CB7.Up2Date
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\refint\Redarbor.Inventory.Application.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\Redarbor.Inventory.Application.pdb
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Application\Redarbor.Inventory.Application\obj\Debug\net6.0\ref\Redarbor.Inventory.Application.dll

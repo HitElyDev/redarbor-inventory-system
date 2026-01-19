@@ -1,0 +1,12 @@
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\bin\Debug\net6.0\Redarbor.Inventory.Domain.deps.json
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\bin\Debug\net6.0\Redarbor.Inventory.Domain.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\bin\Debug\net6.0\Redarbor.Inventory.Domain.pdb
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.AssemblyInfo.cs
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.sourcelink.json
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\refint\Redarbor.Inventory.Domain.dll
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\Redarbor.Inventory.Domain.pdb
+C:\Proyectos\redarbor-inventory-system\Redarbor.Inventory\Redarbor.Inventory.Domain\Redarbor.Inventory.Domain\obj\Debug\net6.0\ref\Redarbor.Inventory.Domain.dll

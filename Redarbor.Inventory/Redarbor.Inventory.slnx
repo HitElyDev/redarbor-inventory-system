@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Redarbor.Inventory.Api/Redarbor.Inventory.Api.csproj" />
+  <Project Path="Redarbor.Inventory.Application/Redarbor.Inventory.Application/Redarbor.Inventory.Application.csproj" />
+  <Project Path="Redarbor.Inventory.Domain/Redarbor.Inventory.Domain/Redarbor.Inventory.Domain.csproj" />
+  <Project Path="Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure.csproj" />
+</Solution>
