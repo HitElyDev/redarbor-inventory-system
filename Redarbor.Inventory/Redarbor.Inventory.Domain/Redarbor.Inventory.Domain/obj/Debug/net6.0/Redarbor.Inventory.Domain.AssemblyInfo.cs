@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Redarbor.Inventory.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322992ce8ae24751fc0121406b7c8c5c5fee85eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc04149480edd6b23b44aacb33489319a1efcf51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Redarbor.Inventory.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Redarbor.Inventory.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

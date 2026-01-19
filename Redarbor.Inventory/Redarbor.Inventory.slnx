@@ -3,4 +3,5 @@
   <Project Path="Redarbor.Inventory.Application/Redarbor.Inventory.Application/Redarbor.Inventory.Application.csproj" />
   <Project Path="Redarbor.Inventory.Domain/Redarbor.Inventory.Domain/Redarbor.Inventory.Domain.csproj" />
   <Project Path="Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure/Redarbor.Inventory.Infrasturcure.csproj" />
+  <Project Path="Redarbor.Inventory.Tests/Redarbor.Inventory.Tests.csproj" Id="471a72de-04b3-40b2-8075-4969148efda2" />
 </Solution>
